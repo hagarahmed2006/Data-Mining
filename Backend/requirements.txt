@@ -1,0 +1,8 @@
+Flask
+flask-cors
+nltk
+transformers
+torch
+scikit-learn
+numpy
+rank_bm25
